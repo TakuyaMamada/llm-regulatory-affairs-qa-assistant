@@ -33,13 +33,15 @@ Based on this experience, I believed an AI assistant for this domain could be va
 - Simple natural-language responses and structured JSON-formatted outputs  
 - Streaming output for real-time responses  
 - Follow-up question suggestions
+- Multi-query retrieval and contextual compression for improved retrieval quality
 
 ## Tech Stack
 
-- Python  
+- Python
 - LangChain
 - OpenAI API  
 - ChromaDB
+- beautifulsoup
 - Jupyter Notebook
 
 ## Installation
